@@ -1,2 +1,2 @@
-# MUSEsuc2
+# MUSEsic2
 the 2nd git repository
